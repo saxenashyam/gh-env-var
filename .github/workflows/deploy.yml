@@ -5,6 +5,7 @@ on:
       - main
       - dev
       - master
+      - Dev
 env:
   MONGODB_DB_NAME: testghdemo      
 jobs:
